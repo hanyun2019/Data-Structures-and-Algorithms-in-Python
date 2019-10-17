@@ -1,5 +1,7 @@
 Data Structures and Algorithms in Pyrthon
 
+Start Jupyter: $ jupyter notebook
+
 Local directory: /Users/Algorithms/python/dsa
 Github: https://github.com/hanyun2019/Data-Structures-and-Algorithms-in-Python.git
 
