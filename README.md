@@ -1,5 +1,7 @@
-Data Structures and Algorithms in Pyrthon
+Data Structures and Algorithms in Python
 
+$ pwd
+/Users/algorithms/python/dsa
 Start Jupyter: $ jupyter notebook
 
 Local directory: /Users/Algorithms/python/dsa
